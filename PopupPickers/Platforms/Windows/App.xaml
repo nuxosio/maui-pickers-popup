@@ -5,15 +5,15 @@
     xmlns:maui="using:Microsoft.Maui"
     xmlns:local="using:PopupPickers.WinUI">
     <maui:MauiWinUIApplication.Resources>
-        <SolidColorBrush x:Key="ComboBoxItemForegroundPointerOver" Color="LightGreen" /> 
+        <SolidColorBrush x:Key="ComboBoxItemForegroundPointerOver" Color="#00FF00" /> 
         <SolidColorBrush x:Key="ComboBoxDropDownBackground" Color="#444444" />
-        <SolidColorBrush x:Key="ComboBoxItemForeground" Color="White" />
-        <SolidColorBrush x:Key="ComboBoxForegroundPointerOver" Color="White" />
-        <SolidColorBrush x:Key="ComboBoxItemForegroundSelected" Color="White" />
-        <SolidColorBrush x:Key="ComboBoxItemForegroundSelectedPointerOver" Color="LightGreen" />
-        <SolidColorBrush x:Key="ComboBoxItemForegroundPressed" Color="Yellow" />
-        <SolidColorBrush x:Key="ComboBoxForegroundPressed" Color="White" />
-        <SolidColorBrush x:Key="ComboBoxItemForegroundSelectedPressed" Color="LightGreen" />
+        <SolidColorBrush x:Key="ComboBoxItemForeground" Color="#FFFFFF" />
+        <SolidColorBrush x:Key="ComboBoxForegroundPointerOver" Color="#FFFFFF" />
+        <SolidColorBrush x:Key="ComboBoxItemForegroundSelected" Color="#FFFFFF" />
+        <SolidColorBrush x:Key="ComboBoxItemForegroundSelectedPointerOver" Color="#00FF00" />
+        <SolidColorBrush x:Key="ComboBoxItemForegroundPressed" Color="#FF00FF" />
+        <SolidColorBrush x:Key="ComboBoxForegroundPressed" Color="#FFFFFF" />
+        <SolidColorBrush x:Key="ComboBoxItemForegroundSelectedPressed" Color="#00FF00" />
         <SolidColorBrush x:Key="ComboBoxItemBackgroundSelected" Color="#777777" />
         <SolidColorBrush x:Key="ComboBoxItemBackgroundSelectedPointerOver" Color="#777777" />
         <SolidColorBrush x:Key="ComboBoxItemBackgroundSelectedPressed" Color="#777777" />

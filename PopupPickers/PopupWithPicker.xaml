@@ -4,7 +4,7 @@
                x:Class="PopupPickers.PopupWithPicker">
 
     <VerticalStackLayout WidthRequest="300">
-        <Picker x:Name="Picker2" Title="Select a monkey" HorizontalOptions="Center">
+        <Picker x:Name="Picker2" Title="Select a monkey" BackgroundColor="Black" HorizontalOptions="Center">
             <Picker.ItemsSource>
                 <x:Array Type="{x:Type x:String}">
                     <x:String>Baboon</x:String>
